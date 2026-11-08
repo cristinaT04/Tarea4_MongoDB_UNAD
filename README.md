@@ -73,8 +73,7 @@ mongosh --file 02_consultas.js
 mongosh --file 03_indices.js
 ```
 
-El archivo de carga evita insertar duplicados cuando detecta documentos existentes. Para reproducir el proyecto desde cero, se recomienda utilizar una base de datos de prueba vacía.
-
+El archivo de carga evita insertar duplicados cuando detecta documentos existentes. 
 ## Conclusión
 
 MongoDB permitió almacenar y consultar información de productos, clientes y ventas mediante documentos y operaciones de agregación.
